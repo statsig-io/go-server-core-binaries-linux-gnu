@@ -1,4 +1,4 @@
-//go:build linux && !musl && arm64
+//go:build arm64
 
 package go_server_core_binaries_linux_gnu
 
